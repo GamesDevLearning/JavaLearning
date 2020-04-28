@@ -1,5 +1,5 @@
 
-package Hello;
+package Arrays;
 
 /**
  *
