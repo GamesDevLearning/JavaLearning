@@ -1,7 +1,11 @@
 package Collections;
 import java.util.ArrayList;
 import java.util.Collection;
-/** @author coding_java  */
+
+/**
+ *
+ * @author coding_java
+ */
 public class Collections {
     public static void main(String[] args) {
         Planet Venus = new Planet("Venus", "gas");
@@ -19,7 +23,8 @@ public class Collections {
         }
 
     }
-         
+        
+    
 /* Output is 
 Planet{name=Venus, type=gas}
 Planet{name=Mars, type=rock}
