@@ -25,5 +25,6 @@ public class exception2 {
     ***************************************************************************/
 }
 
-//In the second example another useful exception is thrown, as I tried to access 
-//the third element of an array, but it doesn't exist. 
+
+
+
